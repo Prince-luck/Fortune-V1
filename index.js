@@ -56,7 +56,7 @@ return new Promise((resolve) => {
 
 async function WolfStart() {
 const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) });
-const { state, saveCreds } = await useMultiFileAuthState('./Wolf_baileys'); 
+const { state, saveCreds } = await useMultiFileAuthState('./diddy_baileys'); 
 const { version, isLatest } = await fetchLatestBaileysVersion();
 console.log(`Starting Føřťůŋɛ-MD-V1 using WhatsApp version v${version.join('.')}, isLatest: ${isLatest}`);
 	
