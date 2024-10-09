@@ -1,7 +1,7 @@
 {
-    "name": "MAKINO-MD-V2",
-    "version": "2.6.0",
-    "description": "MAKINO-MD-V2 is a WhatsApp multiDevice Bot  in Javascript using the Baileys module to make your WhatsApp experience easier.",
+    "name": "Fortune-V1",
+    "version": "1.6.0",
+    "description": "Fortune-V1 is a WhatsApp multiDevice Bot  in Javascript using the Baileys module to make your WhatsApp experience easier.",
     "main": "server.js",
     "directories": {
         "lib": "lib"
@@ -12,17 +12,17 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/anonphoenix007/MAKINO-MD-V2.git"
+        "url": "git+https://github.com/Prince-luck/Fortune-V1.git"
     },
     "keywords": [
         "md-bot"
     ],
-    "author": "Taira Makino",
+    "author": "Fortune",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/anonphoenix007/MAKINO-MD-V2/issues"
+        "url": "https://github.com/Prince-luck/Fortune-V1/issues"
     },
-    "homepage": "https://github.com/anonphoenix007/MAKINO-MD-V2#readme",
+    "homepage": "https://github.com/Prince-luck/Fortune-V1#READme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
